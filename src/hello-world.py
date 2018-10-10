@@ -1,5 +1,0 @@
-print("Goodbye, World!")
-
-
-
-
